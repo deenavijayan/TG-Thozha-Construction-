@@ -1,0 +1,1 @@
+Put customer photos here and reference them in content.js.
